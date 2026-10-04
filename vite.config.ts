@@ -18,7 +18,7 @@ export default defineConfig({
         short_name: 'Prog Maman',
         description: 'Suivi du programme',
         theme_color: '#be185d',
-        background_color: '#09090b',
+        background_color: '#fafafa',
         display: 'standalone',
         start_url: base,
         scope: base,

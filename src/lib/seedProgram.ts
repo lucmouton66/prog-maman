@@ -35,6 +35,7 @@ export function buildSeedProgram(): Program {
                 id: 'm-mar-3',
                 name: 'Squat profond',
                 reps: '30-45s',
+                unit: 'secondes',
                 note: 'Descends en squat complet et reste en bas, dos droit, le temps indiqué.',
               },
             ],
@@ -56,6 +57,7 @@ export function buildSeedProgram(): Program {
                 id: 'm-mar-5',
                 name: 'Superman',
                 reps: '20-30s',
+                unit: 'secondes',
                 note: 'Ventre au sol, lève bras et jambes tendus et maintiens.',
               },
               {
